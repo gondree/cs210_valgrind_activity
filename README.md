@@ -1,2 +1,2 @@
-# cs210_valgrind_activity
+# valgrind activity
 A lesson on using valgrind
